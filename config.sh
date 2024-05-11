@@ -5,7 +5,7 @@ export NAME="twrp"
 export MANIFEST="https://github.com/ashyx/TWRP_Samsung_j2coreltedd"
 export BRANCH="twrp-9.0"
 
-# about your device
+
 export DEVICE="SM-J260G"
 export DT_LINK="https://github.com/ashyx/TWRP_Samsung_j2coreltedd"
 export DT_BRANCH="twrp"
